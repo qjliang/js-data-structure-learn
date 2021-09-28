@@ -1,4 +1,3 @@
-```js
 // 导入栈结构的封装及测试代码
 // import './Stack'
 
@@ -9,15 +8,13 @@
 // import './PriorityQueue'
 
 // 导入单向链表结构的封装及测试代码
-// import './LinkedList'
+import './LinkedList';
 
 // 导入双向链表结构的封装及测试代码
-// import './DoublyLinkedList'
+// import './DoublyLinkedList';
 
 // 导入集合结构的封装及测试代码
 // import './Set'
 
 // 导入哈希表结构的封装及测试代码
 // import './HashTable';
-
-```
